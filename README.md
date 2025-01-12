@@ -21,22 +21,6 @@ color
 
 
 PROBLEMAS:
-que pasa con la barra desplazamiento abajo cunado responsive
-linea 763, subir altura a iframe (aspect-ratio)
-text area ocupe 2 filas o da igual?
 
 * box sizing border box (probar si tiempo)
-width 100% al main
 
-responsive:
-
-achivments:
-así bien?
-
-team:
-bien?
-
-hacer feedbacj en general
-
-connect:
-así?
